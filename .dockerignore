@@ -1,0 +1,7 @@
+node_modules
+database/db.sqlite3
+dist
+.git
+*.log
+logs
+screenshoots
