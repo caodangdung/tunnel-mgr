@@ -1,7 +1,5 @@
 # Archive Notice ⚠
 
-This project is no longer maintained.
-
 # Localtunnel Manager
 
 ![Main interface](/screenshots/overview.png?raw=true)
@@ -25,3 +23,4 @@ This project is very suitable for use in Docker containerization, with the aim o
 
 1. Rename `docker-compose-example.yml` file to `docker-compose.yml`.
 2. Open Terminal or command Prompt type `docker compose up -d`.
+## Document [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/caodangdung/tunnel-mgr)
